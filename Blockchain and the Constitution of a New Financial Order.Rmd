@@ -8,8 +8,8 @@ output: ioslides_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## Panel 1: THe Law and Technology of blockchain -- An Overview
+# Panel 1: The Law and Technology of blockchain -- An Overview
+## Panel 1: The Law and Technology of blockchain -- An Overview
 + Paolo Tasca (UCL) -- *Technical and Legal business challenges of Blockchain Enabled Systems*
 + Tomaso Aste (UCL) -- *What is truth? Blokchain technology and history by majority consensus*
 + Ioannis Lianos (UCL) -- *Law, Fintech and the performative turn in regulation*
@@ -26,6 +26,7 @@ There is overlap between each of these areas
 
 ## Multidimensional Challenges
 Underdeveloped ecosystem
+
 - Adoption of a blockchain is necessary but not enough
 - need a whole ecosystem of stakeholders focused around the adoption of such a technology
 - Complete Tech stacks.
@@ -34,6 +35,7 @@ Underdeveloped ecosystem
   
 ## Multidimensional Challenges
 Lack of educated individuals
+
 - Niche area, means very limited amount software developers
 - Mid 2016 there were appox. 5000 developers
 - Compare the number to Java at approx 18.5 million developers
@@ -42,6 +44,7 @@ Lack of educated individuals
 
 ## Multidimensional Challenges
 Lack of Standards
+
 + Standards arrive as 
     - De-facto virtue of market adoption
     - Via organisations puting standards into place
@@ -56,6 +59,7 @@ Lack of Standards
 
 ## Multidimensional Challenges            
 Blockchain is a foundational technology 
+
 - it will take a long time for wide spread adoption
 - Relies on a 'kiler app' and such like development to really push the technology
     
@@ -64,28 +68,23 @@ Blockchain is a foundational technology
 Uncertain regulatory status
 
 - Paradigm shifts
-
 - Regulation, yes -- better later than never
-
 What can be done to reduce regulatory unsertainty?
-
 - The uncertainty is normal, its a new technology.
     
 ## Legal and Regulatory Challenges
 Political/governmental intervention
+
 - Political vision of the current 4IR (what is 4IR???)
-
 - Internet of value -- dont want to reduce the value that such technology can have
-
 - Consumer Protection
-
 - Lacking a clear understanding that this is the next industrial revolution.
-
 - Many new challenges from a consumer perspective.
     
 
 ## Business Challenges
 Survey of businesses
+
 Most Important | Most Difficult
 ---------------|----------------
 Legal Challenges | Legal Challenges
@@ -96,11 +95,13 @@ Technical Challenges | Business Challenges
 
 ## The Trust Machine
 True to some extent
+
 - Verified by large communities
 - Hard to tamper with purely cause of size and decentralised nature
 - Verified recorded immutable history of fair-play, gives reputation to involved agents.
   
 No need for trusted intermediaries
+
 
 ## Blochchain
  - Google 'structre of blockchain', cba to type it out.
@@ -117,7 +118,7 @@ No need for trusted intermediaries
 - Consensus => Truth decided by community majority
 - Consensus => History is probabilistic
 
-# All Truth within the system is by consensus
+## All Truth within the system is by consensus
 - Not necessarily the Truth, just the aggreed one.
 - The consensus can very well be wrong.
 - Generating Hashes doesn't necessarily validate truth.
@@ -149,15 +150,24 @@ No need for trusted intermediaries
     - In the future current cryptographic technology will likely be broken
     
     
-# Ioannis Lianos (UCL) -- Law, Fintech and the perfomative turn in regulation
+    
+    
+    
+    
+    
+    
+    
+# Ioannis Lianos (UCL) -- *Law, Fintech and the perfomative turn in regulation*
 
 ## Drastic and Disruptive innovation
+
 - bitcoin -- one of the first successful applicaitons of a distrubuted ledger 
 - bitcoin 2.0 -- to store all kinds of information
 - ethereum -- software platform for the development and deployment of all kinds of decentalised applications
 
 ## blockchain and fintech
 5 principals underlying the technology
+
 - Distributed database
 - P2P transmission
 - Transparency with pseudonymity
@@ -167,8 +177,10 @@ No need for trusted intermediaries
 - Fintech is the amalgomation of finance and technology.
 
 ## Regulators -- promoting competition and innovation
-- Financial conduct authority - promote effective competition in the interest of consumers
-- Payment systems regulator - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
+- Financial conduct authority 
+    - promote effective competition in the interest of consumers
+- Payment systems regulator 
+    - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
 
 ## Regulatory Initiatives
 - FCA -- project Innovate
@@ -214,7 +226,13 @@ Will it lead to a wide open competative market?
     - this measn more interaction and involvment between regulators and businesses.
 
 
+
+
+
+
+
 #Karen Yeung -  *Governence by blockchain: the coming battle for supremacy between code of law vs code as law.*
+
 ## Introduction
 
 - Explore the intersection and interactions of conventional law and internal rules of blockchain systems
@@ -302,7 +320,7 @@ Will it lead to a wide open competative market?
 
 
 
-# Giovanni Sartor -- Semantics and Pragmatics of self enforcing laws and contracts
+# Giovanni Sartor -- *Semantics and Pragmatics of self enforcing laws and contracts*
 ## Contracts, logic based smart contracts and blockchain systems
 - A project to find a new way to write smart contracts
     - An alternative to Ethereums smart contract system
@@ -343,8 +361,16 @@ Will it lead to a wide open competative market?
 
 
 
-
 # Panel 2 -- *Blockchain and the future of money*
+## Panel 2 -- *Blockchain and the future of money*
+- Stefan Eich -- *The politics of Cryptocurrencies in historical perspectives*
+- Rosa Maria Lastra -- *Pubic Money vs Private Money*
+- Claus D. Zimmermann -- *monetary policy in the digital age*
+- Hermann Elender -- *Cryptocurrecny evolution and resiliency of blockchain markets*
+- Philipp Hacker - *Corporate Governance for complex cryptocurrencies - regulating blockchain under uncertainty*
+
+
+
 
 # Stefan Eich -- *The politics of Cryptocurrencies in historical perspectives*
 
@@ -402,6 +428,11 @@ Will it lead to a wide open competative market?
 - The creators of a cryptocurrency is infact an act of lawmaking
     - Centralised around their personal political motivations and ideologies.
 
+
+
+
+
+
 # Rosa Maria Lastra -- *Pubic Money vs Private Money*
 
 ## Fiat Money
@@ -436,7 +467,7 @@ Will it lead to a wide open competative market?
     - Signify the changing state of monetary sovereignty
   
 
-## theories of money
+## Theories of money
 - The state theory of money is different to the society theory of money are contrasting
     - A state's theory of money is that they decide what constitutes of money
     - The sociatal theory is that money is determined by what has value.
@@ -465,9 +496,13 @@ Will it lead to a wide open competative market?
     -have a value completely dependant on peoples confidence to use it.
 
 
+
+
+
+
 # Claus D. Zimmermann -- *monetary policy in the digital age*
 ## work in progress, not for citation -- No slides available
-## sporadic points
+## Sporadic points
 - Interest rates
     - Quantitative easing
 - Monetary stability
@@ -489,6 +524,11 @@ Will it lead to a wide open competative market?
 
 - IMF states that it is dificult to see how cryptocurrencies can replace many of the emergency/last resort support functions that centralised banks have.
 
+
+
+
+
+
 # Hermann Elender -- *Cryptocurrecny evolution and resiliency of blockchain markets*
 
 ## Crypto-Currencies are....
@@ -508,6 +548,7 @@ Will it lead to a wide open competative market?
 - Crypto currencies reflect the value of the past.
 
 What about other currencies?
+
 - Singapore's currency was less valuble than Ethereum's
 - Does that mean singapore does not have a currency?
 
@@ -573,7 +614,11 @@ What about other currencies?
 - Liquidity provides a better measure of the matureity than returns or market cap.
 
 
-# Philipp Hacker - *Corporate Governance for complex cryptocurrencies - regulating blockchain under uncertainty*
+
+
+
+
+- Philipp Hacker - *Corporate Governance for complex cryptocurrencies - regulating blockchain under uncertainty*
 
 ## Governance schemes
 - Two levels
@@ -645,6 +690,12 @@ What about other currencies?
 
 
 # Panel 3 -- *Blockchain and the future of banking and finance*
+## Panel 3 -- *Blockchain and the future of banking and finance*
+- Rohan Grey -- *Banking Under A digital Money Fiat*
+- Iris Chiu -- *A New Era in fintech payment innovations? A perspective from the institutions and regulation of payment systems*
+- Alexandros Seretakis -- *Blockchain, Securities markets and central banking*
+- Peter McBurney -- *Verification and Validation of smart contracts: challenges for law and Computer Science*
+- Aaron J. Wright -- *The promises and regulatory challenges of decentralised organiseations*
 
 
 
@@ -685,7 +736,7 @@ Mint issues | central bank issues
 - same process/ease as moving funds from personal acount to an ISA or something else
 
 
-# Registered account or bearer instrument?
+## Registered account or bearer instrument?
 - Visible Ledger -- everyone holds a DFC account
     - similar to equadorian model of epayment methods.
     
@@ -732,6 +783,7 @@ Mint issues | central bank issues
 
 ## Payment Systems
 2 types of systems
+
 - Large value payment systems feature bank domination
     - central bank based clearing and settlement
 - Retail payment systems
@@ -768,9 +820,6 @@ Mint issues | central bank issues
 - Cryptocurrencies have their uses.
     - unlikely to see them penetrate to the level needed to really have an impact
     
-
-
-
 
 
 
@@ -819,6 +868,8 @@ Mint issues | central bank issues
 
 
 
+
+
 # Peter McBurney -- *Verification and Validation of smart contracts: challenges for law and Computer Science*
 
 ## Web vs Blockchain
@@ -837,6 +888,7 @@ Distributed Ledgers have Stateful Shared State.
 
 ## DLTs -- Evolving Thinking over 2 years
 DLTs are appropriate for:
+
 - Cryptocurrencies
 - currency transactions
 - transactions involving the exchanges of assets
@@ -848,12 +900,14 @@ DLTs are appropriate for:
     
 ## Comparison of WWW and Blockchains
 Web
+
 - Easy Discemination of information
 - Information Society
 - Advertising, e-Commerse, DB access
 - Business PRocess Engineering within organisations
 
 Blockchain and DLT
+
 - Agrement on shared information and action
 - Stateful shared state
 - Joint-Action-Society
@@ -898,7 +952,15 @@ Blockchain and DLT
 
 
 
-# Panel 4 -- *Blockchain and the future of Finteck Regulation*
+#Panel 4 -- *Blockchain and the future of Finteck Regulation*
+
+##Panel 4 -- *Blockchain and the future of Finteck Regulation*
+- Michael Jacobides -- *Transformation of corporate scope in US Banks: patterns and performance implications*
+- Pietro Ortolani -- *Is Bitcoin Disruptng the Law? A tale of Jurisdiction, Currency and Sovereignty*
+- Angela Walch -- *The Fiduciaries of Public Blockchains*
+- Georgios Dimitropoulos -- *Global Currencies and Domestic Regulation: embedding through enabling.*
+- Jonathan Greenacre -- *Fintech in Africa: The regulation of mobile money.*
+
 
 # Michael Jacobides -- *Transformation of corporate scope in US Banks: patterns and performance implications*
 
@@ -962,7 +1024,8 @@ Blockchain and DLT
 # Angela Walch -- *The Fiduciaries of Public Blockchains*
 
 ## Summary - anyone working on an open source project is a 'fiduciary'
-
+- The talk was basically this:
+    - https://www.americanbanker.com/opinion/call-blockchain-developers-what-they-are-fiduciaries
 
 # Georgios Dimitropoulos -- *Global Currencies and Domestic Regulation: embedding through enabling.*
 
@@ -995,9 +1058,17 @@ or any combination of.
 
 ## The legal nature of cryptocurrencies.
 Global Currency as Currency
+
 Money
+
 - US: Guidance specifying that decentralised currencies should comply with money laundering regulations
 - Germany: Not a form of legal tender, but are legally binding financial instruments that are similar to foreign currencies in that they are a form of units of account.
+
+## The legal nature of cryptocurrencies.
+Global Currency as Currency
+
+Money
+
 - France: They may be percieved as money, and cryptocurrency intermediaries may quialify as financial intermediaries.
 - UK: HMRC -- Cryptocurrency related activities are not subject to VAT as they are considered a form of Money.
 - EU: implicit and explicit recognition of cryptocurrency as a form of money
@@ -1005,6 +1076,7 @@ Money
 
 ## The legal nature of cryptocurrencies.
 Commodity:
+
 - China: bitcoins can be exchanged between citizins without the involvement of banks
 - US: its a commodity....
 
@@ -1035,5 +1107,8 @@ Commodity:
 
 # Jonathan Greenacre -- *Fintech in Africa: The regulation of mobile money.*
 
-##
+## Interesting talk
+- focus on the challenges associated with africa's mobile money industry
+- not so much a blockchain discusion
+- a kind of decentralised (non-banking) economy
 

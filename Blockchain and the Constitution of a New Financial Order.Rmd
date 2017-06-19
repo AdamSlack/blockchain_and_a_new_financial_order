@@ -436,6 +436,180 @@ transaction?
 - curencies npt backed by any central authority have a value completely dependant on peoples 
 confidence to use it.
 
-    
 
+# Claus D. Zimmermann -- *monetary policy in the digital age*
+## work in progress, not for citation -- No slides available
+## sporadic points
+- interest rates
+    - quantitative easing
+- monetary stability
+    - defined as the stability of domestic prices (different to price stability?) missed what was said.
+    
+- cryptograpgic and decentralised currencies have the potential to upheave central banks and thus any form of monetary policies.
+
+## sporadic points
+- The IMF defines a series of rules that are used to evaluate the stability of monetary systems and the risks that come with them
+
+- the IMF states that cryptocurrecies will have some of the same risks as the gold Standard
+
+- the drawback of limited amounts of currency in a cryptocurrency doesn't necessarly need to remain so
+    - allowing for the expansion the monetary supply (the issuance of more) would requrie heavy global regulation.
+    
+## sporadic points
+- IMF warns that wide spread adoption of crypto currencies could see rise to a form of 'great depression' as a result of its limited supply.
+
+- IMF states that it is dificult to see how cryptocurrencies can replace many of the emergency/last resort support functions that centralised banks have.
+
+# Hermann Elender -- *Cryptocurrecny evolution and resiliency of blockchain markets*
+
+## Crypto-Currencies are....
+- neither Crypto, or currency
+    - Evil (krugman, 2013)
+    - Not evil, too volitile (yermak 2015)
+    - insignificant?
+    
+## crypto vs corp market cap
+- Second larges US enterprise (GOOGL) approx. 588bn
+- Ethereum market cap is approx 4.5bn.
+
+- how can these currecies be utilised if they're not worth enought to buy everything?
+
+## market caps
+- market cap of a traded firm reflects future value
+- crypto currencies reflect the value of the past.
+
+What about other currencies?
+- Singapore's currency was less valuble than Ethereum's
+- does that mean singapore does not have a currency?
+
+## Crypto-Currencies are....
+- neither Crypto, or currency
+    - Evil (krugman, 2013)
+    - Not evil, too volitile (yermak 2015)
+    - insignificant?
+    
+- Money?
+    - unit of account??? - other cypto currencis are traded against BTC and ETH. so yes?
+    - media of exchange -- sure
+    - store of value -- ??? volitle...
+        
+- assets
+    - market micro structure and economic efficieny.
+
+## Why are Crpyto currencies important?
+
+- the effect that they have in all markets.
+- financial portfolios benefit greatly
+- academic research generated as a side effect.
+
+## crypto currencies are volatile
+- shown a std-dev graph of other currencies.
+- 10% deviation +/- on a day to day basis for Eth (for example)
+
+
+## Liquidity and resiliency
+- how much price impact does trading have on cryptocurrencies?
+    - evolution over time
+    - resiliency to large shocks
+    
+- the ability to trade at fundamental value is key for economic efficiency
+
+- in the stock market, frequently, liquidty evaporates when shocks hit.
+    - how does this look in this drastically different market of cryptocurrencies?
+    
+## Liquidity measures
+
+- Standard measure -- Amihud measure
+    - the sum of returns over the total trading volume over a period.
+
+- liquid market, large orders are gonna affect pricing
+- not so liquid, large scale will have less effect on prices.
+
+## crypto vs stocks
+- crypto currencies are orders of magnitude away from standard stocks in liquidity
+- DOW market liqudities measure along 0<liquidity<1
+- Bitcoin was in the 100s a few years ago, now in 1<liqudity<10 range.
+
+## accounting for regularities
+- the time of day, year, month, holidays have regular affects of liquidity
+- need to account for these when getting a true pure liqudity reflection.
+
+## liquidity shocks
+- bitcoins show almost no relation between the returns and liquidity.
+- even for positive or negative returns. and large shocks.
+
+## Conclusion
+- Cryptocurrenceis are a noteworthy asset
+- very fragemented but very integreated
+- liquidity provides a better measure of the matureity than returns or market cap.
+
+
+# Philipp Hacker - *Corporate Governance for complex cryptocurrencies - regulating blockchain under uncertainty*
+
+## Governance schemes
+- Two levels
+    - exect definitions of rules of the game (applying protocol)
+    - lack of rules for changing the rules of the game (updating protocol)
+    
+## Hard Forks
+- Bitcoin hardfork
+    - core dev and miningpool suport older, shorter chain
+- Ethereum Hardfork
+    - DAO Hack -- essentially fork rewrote the history of the blockchain.
+- Bitcoin blocksize debate
+    - discussions between developers, miners, over censorship of the chain
+    
+    
+## consequences.
+- vulnerability to coalitions of the willing
+    - combine powers, technological, resources and informal leadership
+    
+- there was anotherone... missed it...
+
+
+## complexity theory.
+- Simple Order << -- >> Complexity << -- >> Chaos Theory
+- has applicatinos in the financial industry (and crypto currencies.)
+
+## crypto as complex system
+- dynamic interaction between independent actors over time
+    - self organised and ecentralied feedback driven processes
+- variance within groups
+    - heterogeneity among members of the cryptocurrency ecosystem.
+    
+- non-linearity -- elements of order, but unpredictable overtime
+    - lack of governance schemes: fluidity and unpredictability.
+    
+## regulatory consequences: a Crypto Governance code?
+
+## reasons for regulation
+- managing uncertainty
+- complex cryptocurrencies
+    - financial stability -- systemic risk and externality
+        - (mandatory)provisions of fincancial market regulation
+    - User (or investor) protection -- information and power asymmetries
+        - (Soft Law) -- privisions of corporate governance codes.
+        
+## THe governance perspective
+- reining in spontaneuous and unpredictable interactions
+    - strengthen elements of order and regularity.
+- designation of competencces and procedures
+    - missed what was said here....
+    
+    
+## advantages of corporate governance
+- implement 'comply or explain'
+    - flexibility and transparency
+    - valancing innovation and user protection
+- One set of rules for an international ecosystem
+    - solution to puzzels of applicable law, and overlapping regulation.
+    
+## from corporate to crypto
+- extenal governance (exit)
+    - sale of shares/coins
+    - hard fork/corporate controle
+- internal governance (voice)
+    - directors/miners
+
+    
 

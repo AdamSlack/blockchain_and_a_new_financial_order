@@ -140,7 +140,75 @@ All Truth within the system is by consensus
     
     
 # Ioannis Lianos (UCL) -- Law, Fintech and the perfomative turn in regulation
+## Drastic and Disruptive innovation
+- bitcoin -- one of the first successful applicaitons of a distrubuted ledger 
+- bitcoin 2.0 -- to store all kinds of information
+- ethereum -- software platform for the development and deployment of all kinds of decentalised applications
+
+## blockchain and fintech
+- 5 principals underlying the technology
+    - distributed database
+    - p2p transmission
+    - transparency with pseudonymity
+    - immutability of records
+    - comutational logic
+    
+- fintech is the amalgomation of finance and technology.
+
+# Regulators -- promoting competition and innovation
+
+- financial conduct authority - promote effective competition in the interest of consumers
+- payment systems regulator - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
+
+# Regulatory Initiatives
+- FCA -- project Innovate
+- Regulatory Sandbox -- A sandbox from which businesses have a 'safe space' to experiement with new technology.
+    - this can be used to introduce unauthorised businesses to the market
+    - allows regulatory authorities to test the impact of new regulations.
+- Regulation becomes a collaboration industry
+    - bespoke regulatory rules
+  
+# Payment system regulators
+- heavily interested in blockchain technology
+- Bank of England -- regulatory investigations
+    - Research Hub
+    - FinTech Accelerator
+- Prudential Regulatoryt Authority
+
+
+# Rules vs prinicals base
+- Principals based regulation promotes collaboration
+    - authorities state what they want to achieve
+    - leades to Algorithmic Regulation
+    - Lean regulation
+    - Agile regulation
+    
+    
+# Platforms vs Blockchain
+- Blockchain aren't platforms
+- OpenBazaar, Amazon, Google
+- Competition between existing platforms to produce their own system.
+
+# OpenBazaar and markets
+Will it lead to a wide open competative market?
+
+- still an issue with centralised groups of hashing teams
+- these groups will be competative
+    - still not down to the individuals
+
+# Lack of quantitiative measurements for innovation
+- As regulatory authories lack methods of quantifying the promotion of innovaiton
+    - regarding its success at least
+    
+- performative regulation will take be more prominent
+    - this measn more interaction and involvment between regulators and businesses.
+
+
+# Governence by blockchain: the coming battle for supremacy between code of law vs code as law.
 ## 
+
+
+
 
 
 

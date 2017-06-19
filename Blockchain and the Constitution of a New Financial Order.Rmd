@@ -16,87 +16,92 @@ knitr::opts_chunk$set(echo = TRUE)
 + Karen Yeung (Kings College London) -- *Governence by Blockchain: THe upcoming battle for supremacy between the code of law vs the code as law.*
 + Giovanni Sartor (European University Institute) -- *Semantics and Pragmatics of self-enforcing laws and contracts*
 
-## Paolo Tasca (UCL) -- *Technical and Legal business challenges of Blockchain Enabled Systems*
+# Paolo Tasca (UCL) -- *Technical and Legal business challenges of Blockchain Enabled Systems*
+## Challenges
 + General Challenges
-+ legal and regulatory challenges
++ Legal and regulatory challenges
 + Technical Challenges
-+ business challenges
-+ there is overlap between each of these areas
++ Business challenges
+There is overlap between each of these areas
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-+ Multidimensional Challenges
-    - Underdeveloped ecosystem
-        - Adoption of a blockchain is necessary but not enough
-        - need a whole ecosystem of stakeholders focused around the adoption of such a technology
-        - Complete Tech stacks.
-        - analysts
-        - users
+## Multidimensional Challenges
+Underdeveloped ecosystem
+- Adoption of a blockchain is necessary but not enough
+- need a whole ecosystem of stakeholders focused around the adoption of such a technology
+- Complete Tech stacks.
+- analysts
+- users
   
 ## Multidimensional Challenges
-- Lack of educated individuals
-    - Niche area, means very limited software developers
-    - mid 2016 appox. 5000 developers, compare to Java at approx 18.5 million
-    - Lack of educated individuals at an executive level.
+Lack of educated individuals
+- Niche area, means very limited amount software developers
+- Mid 2016 there were appox. 5000 developers
+- Compare the number to Java at approx 18.5 million developers
+- Lack of educated individuals at an executive level.
 
 
 ## Multidimensional Challenges
-- Lack of Standards
-    - standards arrive as defacto virtue of market adopetion
-    - or via organisations puting standards into place
-    - standards will introduce many aspects
-        - Increased adoption
-        - interoperability
-        - lower costs and less overall risks
-    - standards also help with other topics
-        - use cases
-        - terminology, taxonomy, ontology and reference architecture.
+Lack of Standards
+- Standards arrive as 
+    - De-facto virtue of market adoption
+    - Via organisations puting standards into place
+- Standards will introduce many aspects
+    - Increased adoption
+    - Interoperability
+    - Lower costs and less overall risks
+- Standards also help with other topics
+    - Use cases
+    - Terminology, taxonomy, ontology and reference architecture.
             
 
 ## Multidimensional Challenges            
-- Blockchain as a foundational technology means it will take a long time for wide spread adoption
-- it will rely on a 'kiler app' and such like technology to really push the technology
+Blockchain is a foundational technology 
+- it will take a long time for wide spread adoption
+- Relies on a 'kiler app' and such like development to really push the technology
     
 
 ## Legal and Regulatory Challenges
-- Uncertain regulatory status
-    - paradigm shifts
-    - Regulation yes -- better later than never
-    - what can be done to reduce regulatory unsertainty?
-    - The uncertainty is normal, its a new technology.
+Uncertain regulatory status
+- Paradigm shifts
+- Regulation, yes -- better later than never
+What can be done to reduce regulatory unsertainty?
+- The uncertainty is normal, its a new technology.
     
-- Political/governmental intervention
-    - political vision of rhthe current 4IR (what is 4IR???)
-    - Internet of value -- dont want to reduce the value that such technology can have
-    - Consumer Protection
-    - lacking a clear understanding that this is the next industrial revolution.
-    - many new challenges from a consumer perspective.
+## Legal and Regulatory Challenges
+Political/governmental intervention
+- Political vision of the current 4IR (what is 4IR???)
+- Internet of value -- dont want to reduce the value that such technology can have
+- Consumer Protection
+- Lacking a clear understanding that this is the next industrial revolution.
+- Many new challenges from a consumer perspective.
     
 
 ## Business Challenges
-- Survey rsults
-  - Most difficult and most important - Legal challenges
-  - second most difficult and least important - technical challenges
-  - least difficult and second most important - business challenges.
-  
+Survey of businesses
+Most Important | Most Difficult
+--------------------------------
+Legal Challenges | Legal Challenges
+Business Challenges | Technical Challenges
+Technical Challenges | Business Challenges
+
 # Tomaso Aste (UCL): What is truth? Blockchain Technology and history by majority consensus
 
-## Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
-Blockchain -- The Trust Machine
-- True to some extent
-    - verified by large communities
-    - hard to tamper with purely cause of size and decentralised nature
-    - verified recorded immutable history of fair-play, gives reputation to involved agents.
-    
-- no need for trusted intermediaries
+## The Trust Machine
+True to some extent
+- Verified by large communities
+- Hard to tamper with purely cause of size and decentralised nature
+- Verified recorded immutable history of fair-play, gives reputation to involved agents.
+  
+No need for trusted intermediaries
 
 ## Blochchain
  - Google 'structre of blockchain', cba to type it out.
  
 ## origins of blockchain
-- started with Hash trees (merkle trees) and hash chains
-- got to electronic hash chain payments in the 90s
-- proof of work via Hash Cash
-- bitcoin came around after (2008)
+- Started with Hash trees (merkle trees) and hash chains
+- Got to electronic hash chain payments in the 90s
+- Proof of work via Hash Cash
+- Bitcoin came around after (2008)
 
 
 ## Distribution + Community Consensus = Trues
@@ -104,67 +109,69 @@ Blockchain -- The Trust Machine
 - Consensus => Truth decided by community majority
 - Consensus => History is probabilistic
 
-All Truth within the system is by consensus
+# All Truth within the system is by consensus
 - Not necessarily the Truth, just the aggreed one.
-- THe consensus can very well be wrong.
+- The consensus can very well be wrong.
 - Generating Hashes doesn't necessarily validate truth.
-    - just that is accepted as having happend
-    - THen its completely immutable
-    - for storing information, this means that lies can be immutably stored.
+    - Just that is accepted as having happend
+    - Then its completely immutable
+    - For storing information, this means that lies can be immutably stored.
     
 ## Consensus comes with a cost
-- a lot of people have a lot of insentive to alter the truth
-- means that it costs the community a lot of computing power to ensure validity is maintained
+- There a lot of insentive to alter the truth
+- It costs the community a lot of computing power to ensure validity is maintained
 - (note: this only applies to proof of work, proof of stake would make it a monetary issue)
 
 
 ## Challenges
--  Efficiency and scalability
-- legal implications for code misbehaviour
-    - some code may even be automatically generated wihin a distributed and unsupervised system
-    - who is responsible
-    - who will regulate/supervise
-    
-- can we afford to keep immutable historic records
-    - probably not
-    - what if there is a war
-    - what if there are criminal organisations?
+- Efficiency and scalability
+- Legal implications for code misbehaviour
+    - Some code may even be automatically generated wihin a distributed and unsupervised system
+    - Who is responsible
+    - Who will regulate/supervise
 
-- can blockchains be made future proof
-    - preserve integrity even though in the future current cryptographic technology will likely be broken
+## Challenges
+- Can we afford to keep immutable historic records
+    - Probably not
+    - What if there is a war
+    - What if there are criminal organisations?
+
+- Can blockchains be made future proof
+    - Preserve integrity
+    - In the future current cryptographic technology will likely be broken
     
     
 # Ioannis Lianos (UCL) -- Law, Fintech and the perfomative turn in regulation
+
 ## Drastic and Disruptive innovation
 - bitcoin -- one of the first successful applicaitons of a distrubuted ledger 
 - bitcoin 2.0 -- to store all kinds of information
 - ethereum -- software platform for the development and deployment of all kinds of decentalised applications
 
 ## blockchain and fintech
-- 5 principals underlying the technology
-    - distributed database
-    - p2p transmission
-    - transparency with pseudonymity
-    - immutability of records
-    - comutational logic
+5 principals underlying the technology
+- Distributed database
+- P2P transmission
+- Transparency with pseudonymity
+- Immutability of records
+- Comutational logic
     
-- fintech is the amalgomation of finance and technology.
+- Fintech is the amalgomation of finance and technology.
 
 ## Regulators -- promoting competition and innovation
-
-- financial conduct authority - promote effective competition in the interest of consumers
-- payment systems regulator - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
+- Financial conduct authority - promote effective competition in the interest of consumers
+- Payment systems regulator - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
 
 ## Regulatory Initiatives
 - FCA -- project Innovate
 - Regulatory Sandbox -- A sandbox from which businesses have a 'safe space' to experiement with new technology.
-    - this can be used to introduce unauthorised businesses to the market
-    - allows regulatory authorities to test the impact of new regulations.
+    - This can be used to introduce unauthorised businesses to the market
+    - Allows regulatory authorities to test the impact of new regulations.
 - Regulation becomes a collaboration industry
-    - bespoke regulatory rules
+    - Bespoke regulatory rules
   
 ## Payment system regulators
-- heavily interested in blockchain technology
+- Heavily interested in blockchain technology
 - Bank of England -- regulatory investigations
     - Research Hub
     - FinTech Accelerator
@@ -173,8 +180,8 @@ All Truth within the system is by consensus
 
 ## Rules vs prinicals base
 - Principals based regulation promotes collaboration
-    - authorities state what they want to achieve
-    - leades to Algorithmic Regulation
+    - Authorities state what they want to achieve
+    - Leads to Algorithmic Regulation
     - Lean regulation
     - Agile regulation
     
@@ -187,8 +194,8 @@ All Truth within the system is by consensus
 ## OpenBazaar and markets
 Will it lead to a wide open competative market?
 
-- still an issue with centralised groups of hashing teams
-- these groups will be competative
+- Still an issue with centralised groups of hashing teams
+- These groups will be competative
     - still not down to the individuals
 
 ## Lack of quantitiative measurements for innovation
@@ -202,15 +209,15 @@ Will it lead to a wide open competative market?
 #Karen Yeung -  *Governence by blockchain: the coming battle for supremacy between code of law vs code as law.*
 ## Introduction
 
-- explore the intersection and interactions of conventional law and internal rules of blockchain systems
+- Explore the intersection and interactions of conventional law and internal rules of blockchain systems
 
-- how success will 'governance by blockchain' be at avoding governance by conventional law?
+- How success will 'governance by blockchain' be at avoding governance by conventional law?
 
 - Algorithmic Governence
     - predictive analytics and automated decision making systems
     - distributed ledger systems.
 
-- focus on developed markets, undevelopeed markets might not even have a government capable of rivaling 'Cryptolaw'.
+- Focus on developed markets, undevelopeed markets might not even have a government capable of rivaling 'Cryptolaw'.
 
 
 ## Emergence of CryptoLaw
@@ -219,243 +226,251 @@ Will it lead to a wide open competative market?
     
     
 ## Blockchain as beyond the reach of law
-- radical libertarian ideological rhetoric associated with Blockchain technology
-    - premise of which is the assumption that the distrubted and decentralised network renders it unregulatable
+- Radical libertarian ideological rhetoric associated with Blockchain technology
+    - Premise of which is the assumption that the distrubted and decentralised network renders it unregulatable
     
-- similar claims were made regarding the internet. this proved to be a falacy
+- Similar claims were made regarding the internet. this proved to be a falacy
 
-- as blockchain applications emerge they will become more detatched from the ideological side of blockchain.
+- As blockchain applications emerge they will become more detatched from the ideological side of blockchain.
 
 ## Types of interaction between blockchain code and law
 - Hostile Evation -- use of blockchain to evade the limits of the law
 - supportive alignment -- use of blockchain to compliment and suppliment conventional law
-- uneasy co-existence -- use of blockchain to avoid the inconvenience and Mutual suspicion.
+- Uneasy co-existence -- use of blockchain to avoid the inconvenience and Mutual suspicion.
 
 
-## hostile evation
+## Hostile evation
 - Use of blockchain tech and decentralised tech to avoid the law.
-    - cyber crime, extortion, tax avoidance
-- legal systems have asserted sovereign authority of law over thse activities.
+    - Cyber crime, extortion, tax avoidance
+- Legal systems have asserted sovereign authority of law over thse activities.
 
-- virtual currencies should comply with existing money laundering regulations
+- Virtual currencies should comply with existing money laundering regulations
 - Bitcoin exchanges are treated as regulated intermediaries
 
-## practical battle for supremacy
-- considerable challenges in applying conventional law enforcment methods against perpetrators
+## Practical battle for supremacy
+- Considerable challenges in applying conventional law enforcment methods against perpetrators
 
-- conventional law may assert authority over code
-    - can it actually exercise that authority though?
+- Conventional law may assert authority over code
+    - Can it actually exercise that authority though?
     
-- this creates a practical battle between the law and blockchain tech
+- This creates a practical battle between the law and blockchain tech
 
-- regulatory targets:
+- Regulatory targets:
     - wallet providers/exchanges
+    - And others.
     
 ## supportive alignment
-- instead of using blockchains to avoid the law -- use to compliment the law.
+- Instead of using blockchains to avoid the law -- use to compliment the law.
 
-- can be used to streamline and enhance the efficiency of compliance.
+- Can be used to streamline and enhance the efficiency of compliance.
 
-- can provide realtime information on thew state of transacitons between users.
+- Can provide realtime information on thew state of transacitons between users.
 
 - R3's Corda - distributed ledger designed by and for the regulatory industry.
 
-- not a formal 'battle for supremacy' because they are designed to work together
+- Not a formal 'battle for supremacy' because they are designed to work together
 
 ## uneasy co-existence
-- use vlockchain to avoid the procedural burdens and transaction costs associated with conventional law
+- Use vlockchain to avoid the procedural burdens and transaction costs associated with conventional law
 
-- not trying to subvert the law
-    - just not wanting to bother with the hassel of the clunky and slow system of law that exists.
+- Not trying to subvert the law
+    - Just not wanting to bother with the hassel of the clunky and slow system of law that exists.
     
 - DAO was an example of this.
-    - developed with the intention of engaging in venture style investements to give the everyday consumer the opportunity to invest in exciting projects and startups
+    - Developed with the intention of engaging in venture style investements
+    - Gives the everyday consumer the opportunity to invest in exciting projects and startups
     
     
 ## Uneasy co-existence
-- if no hardfork happend after the DAO exploit, would the conventional law reached into the 
-transaction? 
-- would a court have refused to take part?
+- Imagnne no hardfork happend after the DAO exploit
+    - would the conventional law reached into the transaction? 
+- Would a court have refused to take part?
 
 ## Uneasy co-existence
-- are blockchain technologies a legitimate or illegitimate attempt to oust conventional law?
-- DAOs exist in a regulatory greyzone, that may not offer liability, protection or accountability guarantees.
+- Are blockchain technologies a legitimate or illegitimate attempt to oust conventional law?
+- DAOs exist in a regulatory greyzone
+    - may not offer liability, protection or accountability guarantees.
+
+
+
 
 # Giovanni Sartor -- Semantics and Pragmatics of self enforcing laws and contracts
 ## Contracts, logic based smart contracts and blockchain systems
 - A project to find a new way to write smart contracts
-    - an alternative to Ethereums smart contract system
+    - An alternative to Ethereums smart contract system
     
 - Aim to reduce the differnece between a smart contract language (like solidity) and human language
-    - increased accessability
-- imperative languages normally used to create smart contracts
-- the aim is to move to a more declarative style
+    - Increased accessability
+- Imperative languages normally used to create smart contracts
+- The aim is to move to a more declarative style
 
 
 ## what is a smart contract?
-- a program that is used to express an agreement between users
-- a program that enacts some kind of transaction or action.
+- A program that is used to express an agreement between users
+- A program that enacts some kind of transaction or action.
 
 - These contracts can automatically enforce the agreements made.
 
 
-## what are the problems with these contracts and all contracts?
-- can be very difficult to understand unless familiar with the technology
-- often 'seasoned' with additional formalities.
+## What are the problems with these contracts and all contracts?
+- Can be very difficult to understand unless familiar with the technology
+- Often 'seasoned' with additional formalities.
 - This is a problem when trying to expand the reaches of the technology to the general public
-    - trusting of smart contracts will be difficult if there is no understanding.
+    - Trusting of smart contracts will be difficult if there is no understanding.
     
 ## Defeasable Logic
-- a logic represnetation of smart contracts
+- A logic represnetation of smart contracts
 
-## advantages of a declarative language
-- accessability for lawyers and non-technical individuals
-- means that legal authoroties that would normally draft contracts can ensure no illicit activities are being performed.
-- the issue of cancelling smart contracts when legally required (like other contracts) still exists.
+## Advantages of a declarative language
+- Accessability for lawyers and non-technical individuals
+- Means that legal authoroties that would normally draft contracts can ensure no illicit activities are being performed.
+- The issue of cancelling smart contracts when legally required (like other contracts) still exists.
 
 ## Conclusion
 - Smart contracts are good
-- need to ensure they are legally compliant.
-- adopt a declaritive language for clarity between stakeholders.
+- Need to ensure they are legally compliant.
+- Adopt a declaritive language for clarity between stakeholders.
 
 # Panel 2 -- *Blockchain and the future of money*
 # Stefan Eich -- *The politics of Cryptocurrencies in historical perspectives*
 
-##Crypto Currencies
+## Crypto Currencies
 - Driven by technology
-- lacking governence
-- cut off from the past (and)
+- Lacking governence
+- Cut off from the past (and)
 
-## is that the right framing?
+## Is that the right framing?
 
 ## Argument
-- the forget political disputes over money in the 70s
-    - actively written out of memory by great moderation
-    - but resurfaced again with the financial crisis
-- in this ligt cryptocurrences asa political attemt to depoliticise money.
+- The forget political disputes over money in the 70s
+    - Actively written out of memory by great moderation
+    - But resurfaced again with the financial crisis
+- In this light cryptocurrences asa political attemt to depoliticise money.
 
 ## Hayek, the denationalisation of money (1976)
 
-- ending of government monopoly of the issue of money
-- decentralisation
+- Ending of government monopoly of the issue of money
+- Decentralisation
 
 ## Gunnar Myrdal Oct 1974
-- demands for global democratic reforms
-- proposed 'welfare state' becomes a 'welfare world'
-    - via reformation of monetary systems on a global scale
+- Demands for global democratic reforms
+- Proposed 'welfare state' becomes a 'welfare world'
+    - Via reformation of monetary systems on a global scale
     
     
 ## Politics of Disinflation
-- after inflation hikes in the 70's/80's
-- new polics of disinflation and monetary depoliticization emerged
+- After inflation hikes in the 70's/80's
+- New polics of disinflation and monetary depoliticization emerged
 
 ## The great Moderation 
-- revealed that notion of money existing aside from politics was an illusion
+- Revealed that notion of money existing aside from politics was an illusion
 
 ## Financial Crisis
 - The emergence of bitcoin after the financial crisis was not a coincidence
-- the technology had existed for years
+- The technology had existed for years
 - 6 weeks after the collapse of 'lehsman brothers' (corect spelling) bitcoin emerged
 
-## bitcoin as an experiemnt of artificial scarcity
-- the finite amount of bitcoin
-- as more bitcoins became owned, they became more valuble
+## Bitcoin as an experiemnt of artificial scarcity
+- The finite amount of bitcoin
+- As more bitcoins became owned, they became more valuble
 
-## re-politicization
-- just as monetary systems have given rise to calls for decentralised monetary systems
-- it has also created a call for more politicised systems.
+## Re-politicization
+- Just as monetary systems have given rise to calls for decentralised monetary systems
+- It has also created a call for more politicised systems.
 
-## to summarise
-- cryptocurrency is intself a political act
-    - a olitical act of depoliticisation
+## In Summary
+- Cryptocurrency is intself a political act
+    - A political act of depoliticisation
     
-- technology itself is politically neutral
-    - blockchains are politically agnostic, even if its applications aren't 
+- Technology itself is politically neutral
+    - Blockchains are politically agnostic, even if its applications aren't 
   
-- the creators of a cryptocurrency is infact an act of lawmaking
-    - centralised around their personal political motivations and ideologies.
+- The creators of a cryptocurrency is infact an act of lawmaking
+    - Centralised around their personal political motivations and ideologies.
 
 # Rosa Maria Lastra -- *Pubic Money vs Private Money*
 
 ## Fiat Money
 - Funcitons of money
     - medium of exchange, store of value, unit of account.
-- governence
+- Governence
     - central bank issue, legal tender, legal counterparty
-- risks
+- Risks
     - theft, fraud, counter-party, inflation
-- consumer appeal
+- Consumer appeal
     - good store of value, realtime, reversible
-- foreign exchange
+- Foreign exchange
     - costly time
-- centralised clearing
+- Centralised clearing
     - paypal, apple pay, cheques
     
 ## Bitcoin (didnt want to talk about ethereum as well)
-- functions of money
+- Functions of money
     - medium of exchange, volitile store of value, negligible unit of account
--governance
+- Governance
     - bitcoin protocol, issuing mining rewards
-- risks
+- Risks
     - medium, interface, malfunction, password (key) loss
 
 
 ## Monetary Sovereignty
 - Traditionally
-    - the power to issue and distrubute money
-    - monopoly power enjoyed by the state
-- new technology
-    - digital currencies, digital payment methods
-    - signify the changing state of monetary sovereignty
+    - The power to issue and distrubute money
+    - Monopoly power enjoyed by the state
+- New technology
+    - Digital currencies, digital payment methods
+    - Signify the changing state of monetary sovereignty
   
 
 ## theories of money
-- the state theory of money is different to the society theory of money are contrasting
-    - a state's theory of money is that they decide what constitutes of money
-    - the sociatal theory is that money is determined by what has value.
+- The state theory of money is different to the society theory of money are contrasting
+    - A state's theory of money is that they decide what constitutes of money
+    - The sociatal theory is that money is determined by what has value.
     
 ## Public money
-- public money is fiat money backed by the state
+- Public money is fiat money backed by the state
 
-- central banks issue all notes in circulation
-- fiat money, inconvertable into gold or other precious materials.
-    - the government declares the paper money to be legal tender for the settlement of debts
+- Central banks issue all notes in circulation
+- Fiat money, inconvertable into gold or other precious materials.
+    - The government declares the paper money to be legal tender for the settlement of debts
     
-## private money
-- societal money backed by societal accpetance.
-    - enhanced by reputation/credibility.
-    - currency does not need to be legal tender to exist.
+## Private money
+- Societal money backed by societal accpetance.
+    - Enhanced by reputation/credibility.
+    - Currency does not need to be legal tender to exist.
     
 ## Boom and Busts
-- displacement brings opportunity for profit
-    - herd behavioutr from investor euphoria
-- as investors decide to cash out, others follow this movement, causing busts as extensive as the booms.
+- Displacement brings opportunity for profit
+    - Herd behavioutr from investor euphoria
+- As investors decide to cash out, others follow this movement
+    - Causes busts as extensive as the booms.
 
-## private money and central banking.
+## Private money and central banking.
 - Crypto currencies challenge the status quo of bank monopoly
-- curencies npt backed by any central authority have a value completely dependant on peoples 
-confidence to use it.
+- Curencies npt backed by any central authority 
+    -have a value completely dependant on peoples confidence to use it.
 
 
 # Claus D. Zimmermann -- *monetary policy in the digital age*
 ## work in progress, not for citation -- No slides available
 ## sporadic points
-- interest rates
-    - quantitative easing
-- monetary stability
-    - defined as the stability of domestic prices (different to price stability?) missed what was said.
+- Interest rates
+    - Quantitative easing
+- Monetary stability
+    - Defined as the stability of domestic prices (different to price stability?).
     
-- cryptograpgic and decentralised currencies have the potential to upheave central banks and thus any form of monetary policies.
+- Cryptograpgic and decentralised currencies have the potential to upheave central banks
+    - thus any form of monetary policies.
 
-## sporadic points
+## Sporadic points
 - The IMF defines a series of rules that are used to evaluate the stability of monetary systems and the risks that come with them
 
-- the IMF states that cryptocurrecies will have some of the same risks as the gold Standard
+- The IMF states that cryptocurrecies will have some of the same risks as the gold Standard
 
-- the drawback of limited amounts of currency in a cryptocurrency doesn't necessarly need to remain so
-    - allowing for the expansion the monetary supply (the issuance of more) would requrie heavy global regulation.
+- The drawback of limited amounts of currency in a cryptocurrency doesn't necessarly need to remain so
+    - Allowing for the expansion the monetary supply (the issuance of more) would requrie heavy global regulation.
     
-## sporadic points
+## Sporadic points
 - IMF warns that wide spread adoption of crypto currencies could see rise to a form of 'great depression' as a result of its limited supply.
 
 - IMF states that it is dificult to see how cryptocurrencies can replace many of the emergency/last resort support functions that centralised banks have.
@@ -463,27 +478,27 @@ confidence to use it.
 # Hermann Elender -- *Cryptocurrecny evolution and resiliency of blockchain markets*
 
 ## Crypto-Currencies are....
-- neither Crypto, or currency
+- Neither Crypto, or currency
     - Evil (krugman, 2013)
     - Not evil, too volitile (yermak 2015)
     - insignificant?
     
-## crypto vs corp market cap
+## Crypto vs corp market cap
 - Second larges US enterprise (GOOGL) approx. 588bn
 - Ethereum market cap is approx 4.5bn.
 
-- how can these currecies be utilised if they're not worth enought to buy everything?
+- How can these currecies be utilised if they're not worth enought to buy everything?
 
-## market caps
-- market cap of a traded firm reflects future value
-- crypto currencies reflect the value of the past.
+## Market caps
+- Market cap of a traded firm reflects future value
+- Crypto currencies reflect the value of the past.
 
 What about other currencies?
 - Singapore's currency was less valuble than Ethereum's
-- does that mean singapore does not have a currency?
+- Does that mean singapore does not have a currency?
 
 ## Crypto-Currencies are....
-- neither Crypto, or currency
+- Neither Crypto, or currency
     - Evil (krugman, 2013)
     - Not evil, too volitile (yermak 2015)
     - insignificant?
@@ -493,123 +508,123 @@ What about other currencies?
     - media of exchange -- sure
     - store of value -- ??? volitle...
         
-- assets
+- Assets
     - market micro structure and economic efficieny.
 
 ## Why are Crpyto currencies important?
 
-- the effect that they have in all markets.
-- financial portfolios benefit greatly
-- academic research generated as a side effect.
+- The effect that they have in all markets.
+- Financial portfolios benefit greatly
+- Academic research generated as a side effect.
 
-## crypto currencies are volatile
-- shown a std-dev graph of other currencies.
+## Crypto currencies are volatile
+- Shown a std-dev graph of other currencies.
 - 10% deviation +/- on a day to day basis for Eth (for example)
 
 
 ## Liquidity and resiliency
-- how much price impact does trading have on cryptocurrencies?
-    - evolution over time
-    - resiliency to large shocks
+- How much price impact does trading have on cryptocurrencies?
+    - Evolution over time
+    - Resiliency to large shocks
     
-- the ability to trade at fundamental value is key for economic efficiency
+- The ability to trade at fundamental value is key for economic efficiency
 
-- in the stock market, frequently, liquidty evaporates when shocks hit.
-    - how does this look in this drastically different market of cryptocurrencies?
+- In the stock market, frequently, liquidty evaporates when shocks hit.
+    - How does this look in this drastically different market of cryptocurrencies?
     
 ## Liquidity measures
 
 - Standard measure -- Amihud measure
-    - the sum of returns over the total trading volume over a period.
+    - The sum of returns over the total trading volume over a period.
 
-- liquid market, large orders are gonna affect pricing
-- not so liquid, large scale will have less effect on prices.
+- Liquid market, large orders are gonna affect pricing
+- Not so liquid, large scale will have less effect on prices.
 
-## crypto vs stocks
-- crypto currencies are orders of magnitude away from standard stocks in liquidity
+## Crypto vs stocks
+- Crypto currencies are orders of magnitude away from standard stocks in liquidity
 - DOW market liqudities measure along 0<liquidity<1
 - Bitcoin was in the 100s a few years ago, now in 1<liqudity<10 range.
 
 ## accounting for regularities
-- the time of day, year, month, holidays have regular affects of liquidity
-- need to account for these when getting a true pure liqudity reflection.
+- The time of day, year, month, holidays have regular affects of liquidity
+- Need to account for these when getting a true pure liqudity reflection.
 
-## liquidity shocks
-- bitcoins show almost no relation between the returns and liquidity.
-- even for positive or negative returns. and large shocks.
+## Liquidity shocks
+- Bitcoins show almost no relation between the returns and liquidity.
+- Even for positive or negative returns. and large shocks.
 
 ## Conclusion
 - Cryptocurrenceis are a noteworthy asset
-- very fragemented but very integreated
-- liquidity provides a better measure of the matureity than returns or market cap.
+- Very fragemented but very integreated
+- Liquidity provides a better measure of the matureity than returns or market cap.
 
 
 # Philipp Hacker - *Corporate Governance for complex cryptocurrencies - regulating blockchain under uncertainty*
 
 ## Governance schemes
 - Two levels
-    - exect definitions of rules of the game (applying protocol)
-    - lack of rules for changing the rules of the game (updating protocol)
+    - Exact definitions of rules of the game (applying protocol)
+    - Lack of rules for changing the rules of the game (updating protocol)
     
 ## Hard Forks
 - Bitcoin hardfork
-    - core dev and miningpool suport older, shorter chain
+    - Core dev and miningpool suport older, shorter chain
 - Ethereum Hardfork
     - DAO Hack -- essentially fork rewrote the history of the blockchain.
 - Bitcoin blocksize debate
-    - discussions between developers, miners, over censorship of the chain
+    - Discussions between developers, miners, over censorship of the chain
     
     
-## consequences.
-- vulnerability to coalitions of the willing
-    - combine powers, technological, resources and informal leadership
+## Consequences.
+- Vulnerability to coalitions of the willing
+    - Combine powers, technological, resources and informal leadership
     
-- there was anotherone... missed it...
+- There was anotherone... missed it...
 
 
-## complexity theory.
+## Complexity theory.
 - Simple Order << -- >> Complexity << -- >> Chaos Theory
-- has applicatinos in the financial industry (and crypto currencies.)
+- Has applicatinos in the financial industry (and crypto currencies.)
 
-## crypto as complex system
-- dynamic interaction between independent actors over time
-    - self organised and ecentralied feedback driven processes
-- variance within groups
-    - heterogeneity among members of the cryptocurrency ecosystem.
+## Crypto as complex system
+- Dynamic interaction between independent actors over time
+    - Self organised and ecentralied feedback driven processes
+- Variance within groups
+    - Heterogeneity among members of the cryptocurrency ecosystem.
     
-- non-linearity -- elements of order, but unpredictable overtime
-    - lack of governance schemes: fluidity and unpredictability.
+- Non-linearity -- elements of order, but unpredictable overtime
+    - Lack of governance schemes: fluidity and unpredictability.
     
-## regulatory consequences: a Crypto Governance code?
+## Regulatory consequences: a Crypto Governance code?
 
-## reasons for regulation
-- managing uncertainty
-- complex cryptocurrencies
-    - financial stability -- systemic risk and externality
+## Reasons for regulation
+- Managing uncertainty
+- Complex cryptocurrencies
+    - Financial stability -- systemic risk and externality
         - (mandatory)provisions of fincancial market regulation
     - User (or investor) protection -- information and power asymmetries
         - (Soft Law) -- privisions of corporate governance codes.
         
-## THe governance perspective
-- reining in spontaneuous and unpredictable interactions
-    - strengthen elements of order and regularity.
-- designation of competencces and procedures
-    - missed what was said here....
+## The governance perspective
+- Bringing in spontaneuous and unpredictable interactions
+    - Strengthen elements of order and regularity.
+- Designation of competencces and procedures
+    - Missed what was said here....
     
     
-## advantages of corporate governance
-- implement 'comply or explain'
-    - flexibility and transparency
-    - valancing innovation and user protection
+## Advantages of corporate governance
+- Implement 'comply or explain'
+    - Flexibility and transparency
+    - Balancing innovation and user protection
 - One set of rules for an international ecosystem
     - solution to puzzels of applicable law, and overlapping regulation.
     
-## from corporate to crypto
-- extenal governance (exit)
-    - sale of shares/coins
-    - hard fork/corporate controle
-- internal governance (voice)
-    - directors/miners
+## From corporate to crypto
+- Extenal governance (exit)
+    - Sale of shares/coins
+    - Hard fork/corporate controle
+- Internal governance (voice)
+    - Directors/miners
 
     
 

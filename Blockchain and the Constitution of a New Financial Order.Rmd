@@ -650,8 +650,66 @@ What about other currencies?
 
 # Rohan Grey -- *Banking Under A digital Money Fiat*
 
-## 
+## Modern Money
+- The state comes in first as all authority of law -- Money Stuff.
 
+## Money in the 21st Century
+- Buckminster Fuller -- To make change... build something... make the prior obsolete
+
+(find the full quote later)
+
+
+## DFC Dollar (Digital Fiat currency)
+- Digital Token via compatible payment networks
+- government issues, legal tender, tax acceptable
+- Guaranteed Principle, Zero or +ve interest/maturity
+- Superconvertible
+    - can convert to and from other currencies.
+- Bearer instrument or registered account
+
+## Coins vs Centeral Bank Notes
+- Bearer instruments -- who holds them, owns them
+
+coins|Central Bank notes
+----|--------
+Mint issues | central bank issues
+
+## Securities
+- Treasury securities are issued by treasuries
+- ceneral bank securities are issued by central banks
+
+## MetaMoney
+- Re-Organises different aspects of a fiat money
+- This is the superconvertability at play
+- moving from food stamp aspect to student debt aspect
+- same process/ease as moving funds from personal acount to an ISA or something else
+
+
+# Registered account or bearer instrument?
+- Visible Ledger -- everyone holds a DFC account
+    - similar to equadorian model of epayment methods.
+    
+- invisible ledger -- a distribued not decentralised approach
+    - Note to self. this is pretty much what happens now. just not with blockchains but with normal Databases.
+    - the difference i guess is down to the Compartmentalised versions of the DFC
+    
+## DFC System
+- Eliminates most of the uses that a bank has
+- Credit is the only function that remains
+
+## Banks as Fiscal Agents
+
+## Regulatory implications
+- Similar to unlimited deposit insurance
+- Do one thing well: underwriting
+- Asset-side discipline: collateral quality.
+
+## Challenges
+- Private credit vs public investment
+- regulated vs shadow finance
+- the 'veil' of money and banking
+
+## The End 
 
 
 
@@ -660,13 +718,180 @@ What about other currencies?
 
 # Iris Chiu -- *A New Era in fintech payment innovations? A perspective from the institutions and regulation of payment systems*
 
+## Payment Innovatikons
+- Focus on New payment interfaces
+    - Apple Pay, Amaozon 1-click, etc
+    
+## Payment involves intermediaries
+- when parties are not in the same location
+    - physcial cash is not used
+    - payment is done via transfers through a 3rd party
+    
+- Banks have arisen as the lead of intermediaries
+    - accounts are managed at a central bank
+
+## Payment Systems
+2 types of systems
+- Large value payment systems feature bank domination
+    - central bank based clearing and settlement
+- Retail payment systems
+    - also bank dominated -- front end clearing and settlement at central bank
+    - not a bad thing -- consumer protection is possible as a result
+    
+## Complaints
+- retail systems recieve numerous complaints
+    - speed is poor
+    - uncompetitive
+    - charges and fees
+    - old fashioned interfaces.
+    
+- commercial innovation is observed with the rise of fintech
+    - but have consumer outcomes actually improved?
+    
+## Payment interfaces     
+- Seek to improve Consumer experience
+- Speed and ease of Use
+- Still don't penetrate to the level of clearance and settlement at central banks
+- require storing access to your bank accounts on various devices.
+
+
+## Payment interface innovations
+- M-PESA A True Alternative to standard settlement and clearing
+- Safari.com?
+
+## Reflections
+- non-penetration of payment interfaces means limited changes to customer outcomes
+- charges and fees may remain stubborn
+- With innovation comes new security risks
+    - its difficult to get 100% coverage of new technology
+    - Exploits will eventually be found (DAO hack in Ethereum)
+- Cryptocurrencies have their uses.
+    - unlikely to see them penetrate to the level needed to really have an impact
+    
+
+
+
+
+
+
+
+
+
 # Alexandros Seretakis -- *Blockchain, Securities markets and central banking*
+
+## Experimenting with Distributed Ledger Technology (DLT)
+-  ECB and bank pof japan
+    - research project regarding the use of the technology for market infrastructure
+- NASDAQ
+    - NASDAQ private market
+- Overstock
+    - issuance of private digital bonds
+    
+    
+## The Promise
+- No need for central validation systems
+- Shared Database
+- Protecion against assets being transferred twice
+- Transaction permanence and irreversability
+- Transparency
+- 24/7 Operation
+- DLT and Smart Contracts
+- Permanent and Time Stampted
+
+## Securities Markets
+- Transparency of Securities ownership (shares, etc.)
+- Compression of settlment cycles
+    - lowering counterparty settlement risk, enhancing liquidity
+- instant settlement
+    - elimination of counterparty risk
+    - clearing made redundant (cash spot transactions)
+    
+- Smart contracts
+    - automation of a variety of processes
+    - Netting and Margining
+    
+## Central Banking
+- Technology is not ready for mass adoption
+    - doesn't yet meet the safety and security standards offered by centralised banks
+- should banks accept direct deposits from nonbank institutions?
+
+
+
+
 
 # Peter McBurney -- *Verification and Validation of smart contracts: challenges for law and Computer Science*
 
-# Aaron J. Wrigt -- *The promises and regulatory challenges of decentralised organiseations*
+## Web vs Blockchain
+- The web was the last technology advancement widescale disruption of all areas
+- Blockchain is doing the same sort of exciting disruptions
+
+## Stateful Shared State
+- Al nodes on a distributed ledger aggree pon the values of the variavble on the ledger
+    - they have a share state
+- the ledger also preserves past states
+    - the protocol is stateful
+    - in contrast, HTTP is Stateless
 
 
+Distributed Ledgers have Stateful Shared State.
+
+## DLTs -- Evolving Thinking over 2 years
+DLTs are appropriate for:
+- Cryptocurrencies
+- currency transactions
+- transactions involving the exchanges of assets
+    - chains of custory
+- records of information
+    - medical records, personal identity, company records
+- primises and commitments
+    - futures contracts, trade flows
+    
+## Comparison of WWW and Blockchains
+Web
+- Easy Discemination of information
+- Information Society
+- Advertising, e-Commerse, DB access
+- Business PRocess Engineering within organisations
+
+Blockchain and DLT
+- Agrement on shared information and action
+- Stateful shared state
+- Joint-Action-Society
+- Identity Records, Chains of commerse, insurance
+- Business PRocess Engineering Accross Organisations.
+
+
+# Aaron J. Wright -- *The promises and regulatory challenges of decentralised organiseations*
+
+## Blockchain characteristics
+- Global and Transnational
+- Resilient and tamper resistan
+- transparant and Non-repudiable records
+- pseudonyms
+- incentive mechanisms
+
+## Blockchain Enables:
+- Global Disgital Currencies
+- Highly resilieent authenticated, tamper resistant registries
+- the execution of computational processes that can be autonomous
+
+## coo-ordination of social and economic activity in a decentralised way.
+
+## tamper resistant registreis includes voting
+  -  Privacy is not a concern here
+  - ??
+  
+## Tamper Resistet registries for stock certificates
+
+## Smart contracts
+- facilitate payments
+- transfer assets, including dividends, profit interests
+- tally votes
+- Escrow (for exchange of goods/services.)
+
+## Theoretical Framework
+- Blockchains can reduce (not eliminate) organisational frictions
+- Enforcement mechanisms reduce risk of opportunistic behaviour
 
 
 

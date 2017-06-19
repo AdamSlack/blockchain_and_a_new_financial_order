@@ -42,14 +42,14 @@ Lack of educated individuals
 
 ## Multidimensional Challenges
 Lack of Standards
-- Standards arrive as 
++ Standards arrive as 
     - De-facto virtue of market adoption
     - Via organisations puting standards into place
-- Standards will introduce many aspects
++ Standards will introduce many aspects
     - Increased adoption
     - Interoperability
     - Lower costs and less overall risks
-- Standards also help with other topics
++ Standards also help with other topics
     - Use cases
     - Terminology, taxonomy, ontology and reference architecture.
             
@@ -62,24 +62,32 @@ Blockchain is a foundational technology
 
 ## Legal and Regulatory Challenges
 Uncertain regulatory status
+
 - Paradigm shifts
+
 - Regulation, yes -- better later than never
+
 What can be done to reduce regulatory unsertainty?
+
 - The uncertainty is normal, its a new technology.
     
 ## Legal and Regulatory Challenges
 Political/governmental intervention
 - Political vision of the current 4IR (what is 4IR???)
+
 - Internet of value -- dont want to reduce the value that such technology can have
+
 - Consumer Protection
+
 - Lacking a clear understanding that this is the next industrial revolution.
+
 - Many new challenges from a consumer perspective.
     
 
 ## Business Challenges
 Survey of businesses
 Most Important | Most Difficult
---------------------------------
+---------------|----------------
 Legal Challenges | Legal Challenges
 Business Challenges | Technical Challenges
 Technical Challenges | Business Challenges
@@ -331,7 +339,13 @@ Will it lead to a wide open competative market?
 - Need to ensure they are legally compliant.
 - Adopt a declaritive language for clarity between stakeholders.
 
+
+
+
+
+
 # Panel 2 -- *Blockchain and the future of money*
+
 # Stefan Eich -- *The politics of Cryptocurrencies in historical perspectives*
 
 ## Crypto Currencies
@@ -626,5 +640,46 @@ What about other currencies?
 - Internal governance (voice)
     - Directors/miners
 
-    
+
+
+
+
+# Panel 3 -- *Blockchain and the future of banking and finance*
+
+
+
+# Rohan Grey -- *Banking Under A digital Money Fiat*
+
+## 
+
+
+
+
+
+
+
+# Iris Chiu -- *A New Era in fintech payment innovations? A perspective from the institutions and regulation of payment systems*
+
+# Alexandros Seretakis -- *Blockchain, Securities markets and central banking*
+
+# Peter McBurney -- *Verification and Validation of smart contracts: challenges for law and Computer Science*
+
+# Aaron J. Wrigt -- *The promises and regulatory challenges of decentralised organiseations*
+
+
+
+
+
+# Panel 4 -- *Blockchain and the future of Finteck Regulation*
+
+# Michael Jacobides -- *Transformation of corporate scope in US Banks: patterns and performance implications*
+
+# Pietro Ortolani -- *Is Bitcoin Disruptng the Law? A tale of Jurisdiction, Currency and Sovereignty*
+
+# Angela Walch -- *The Fiduciaries of Public Blockchains*
+
+# Georgios Dimitropoulos -- *Global Currencies and Domestic Regulation: embedding through enabling.*
+
+# Jonathan Greenacre -- *Fintech in Africa: The regulation of mobile money.*
+
 

@@ -84,9 +84,71 @@ Business Challenges
   
   
 
-# Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
+# Tomaso Aste (UCL): What is truth? Blockchain Technology and history by majority consensus
 ## Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
-  
+Blockchain -- The Trust Machine
+- True to some extent
+    - verified by large communities
+    - hard to tamper with purely cause of size and decentralised nature
+    - verified recorded immutable history of fair-play, gives reputation to involved agents.
+    
+- no need for trusted intermediaries
+
+## Blochchain
+ - Google 'structre of blockchain', cba to type it out.
+ 
+## origins of blockchain
+- started with Hash trees (merkle trees) and hash chains
+- got to electronic hash chain payments in the 90s
+- proof of work via Hash Cash
+- bitcoin came around after (2008)
+
+
+## Distribution + Community Consensus = Trues
+- Consensus => transparency
+- Consensus => Truth decided by community majority
+- Consensus => History is probabilistic
+
+All Truth within the system is by consensus
+- Not necessarily the Truth, just the aggreed one.
+- THe consensus can very well be wrong.
+- Generating Hashes doesn't necessarily validate truth.
+    - just that is accepted as having happend
+    - THen its completely immutable
+    - for storing information, this means that lies can be immutably stored.
+    
+## Consensus comes with a cost
+- a lot of people have a lot of insentive to alter the truth
+- means that it costs the community a lot of computing power to ensure validity is maintained
+- (note: this only applies to proof of work, proof of stake would make it a monetary issue)
+
+
+## Challenges
+-  Efficiency and scalability
+- legal implications for code misbehaviour
+    - some code may even be automatically generated wihin a distributed and unsupervised system
+    - who is responsible
+    - who will regulate/supervise
+    
+- can we afford to keep immutable historic records
+    - probably not
+    - what if there is a war
+    - what if there are criminal organisations?
+
+- can blockchains be made future proof
+    - preserve integrity even though in the future current cryptographic technology will likely be broken
+    
+    
+# Ioannis Lianos (UCL) -- Law, Fintech and the perfomative turn in regulation
+## 
+
+
+
+
+
+
+
+
   
 
 

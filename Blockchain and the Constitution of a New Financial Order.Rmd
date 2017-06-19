@@ -205,20 +205,85 @@ Will it lead to a wide open competative market?
 
 
 # Governence by blockchain: the coming battle for supremacy between code of law vs code as law.
-## 
+## Introduction
+
+- explore the intersection and interactions of conventional law and internal rules of blockchain systems
+
+- how success will 'governance by blockchain' be at avoding governance by conventional law?
+
+- Algorithmic Governence
+    - predictive analytics and automated decision making systems
+    - distributed ledger systems.
+
+- focus on developed markets, undevelopeed markets might not even have a government capable of rivaling 'Cryptolaw'.
 
 
+## Emergence of CryptoLaw
+- Ethereum -- a Cryptolaw system (ie blockchain code as law)
+    - a set of rules administered through the use of smart contracts
+    
+    
+## Blockchain as beyond the reach of law
+- radical libertarian ideological rhetoric associated with Blockchain technology
+    - premise of which is the assumption that the distrubted and decentralised network renders it unregulatable
+    
+- similar claims were made regarding the internet. this proved to be a falacy
+
+- as blockchain applications emerge they will become more detatched from the ideological side of blockchain.
+
+## Types of interaction between blockchain code and law
+- Hostile Evation -- use of blockchain to evade the limits of the law
+- supportive alignment -- use of blockchain to compliment and suppliment conventional law
+- uneasy co-existence -- use of blockchain to avoid the inconvenience and Mutual suspicion.
 
 
+## hostile evation
+- Use of blockchain tech and decentralised tech to avoid the law.
+    - cyber crime, extortion, tax avoidance
+- legal systems have asserted sovereign authority of law over thse activities.
 
+- virtual currencies should comply with existing money laundering regulations
+- Bitcoin exchanges are treated as regulated intermediaries
 
+## practical battle for supremacy
+- considerable challenges in applying conventional law enforcment methods against perpetrators
 
+- conventional law may assert authority over code
+    - can it actually exercise that authority though?
+    
+- this creates a practical battle between the law and blockchain tech
 
+- regulatory targets:
+    - wallet providers/exchanges
+    
+## supportive alignment
+- instead of using blockchains to avoid the law -- use to compliment the law.
 
+- can be used to streamline and enhance the efficiency of compliance.
 
+- can provide realtime information on thew state of transacitons between users.
 
-  
+- R3's Corda - distributed ledger designed by and for the regulatory industry.
 
+- not a formal 'battle for supremacy' because they are designed to work together
 
+## uneasy co-existence
+- use vlockchain to avoid the procedural burdens and transaction costs associated with conventional law
 
+- not trying to subvert the law
+    - just not wanting to bother with the hassel of the clunky and slow system of law that exists.
+    
+- DAO was an example of this.
+    - developed with the intention of engaging in venture style investements to give the everyday consumer the opportunity to invest in exciting projects and startups
+    
+    
+## Uneasy co-existence
+- if no hardfork happend after the DAO exploit, would the conventional law reached into the 
+transaction? 
+- would a court have refused to take part?
 
+## Uneasy co-existence
+- are blockchain technologies a legitimate or illegitimate attempt to oust conventional law?
+- DAOs exist in a regulatory greyzone, that may not offer liability, protection or accountability guarantees.
+
+## conclusion

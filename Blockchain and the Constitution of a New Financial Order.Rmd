@@ -40,19 +40,55 @@ knitr::opts_chunk$set(echo = TRUE)
         - Lack of educated individuals at an executive level.
 
 ## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-+ Multidimensional Challenges
-    - Lack of Standards
-        - standards arrive as defacto virtue of market adopetion
-        - or via organisations puting standards into place
-        - standards will introduce many aspects
-            - Increased adoption
-            - interoperability
-            - lower costs and less overall risks
-        - standards also help with other topics
-            - use cases
-            - terminology, taxonomy, ontology and reference architecture.
+Multidimensional Challenges
+- Lack of Standards
+    - standards arrive as defacto virtue of market adopetion
+    - or via organisations puting standards into place
+    - standards will introduce many aspects
+        - Increased adoption
+        - interoperability
+        - lower costs and less overall risks
+    - standards also help with other topics
+        - use cases
+        - terminology, taxonomy, ontology and reference architecture.
             
-            
-            
-            
-        
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
+Multidimensional Challenges            
+- Blockchain as a foundational technology means it will take a long time for wide spread adoption
+- it will rely on a 'kiler app' and such like technology to really push the technology
+    
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
+Legal and REgulatory Challenges
+- Uncertain regulatory status
+    - paradigm shifts
+    - Regulation yes -- better later than never
+    - what can be done to reduce regulatory unsertainty?
+    - The uncertainty is normal, its a new technology.
+    
+- Political/governmental intervention
+    - political vision of rhthe current 4IR (what is 4IR???)
+    - Internet of value -- dont want to reduce the value that such technology can have
+    - Consumer Protection
+    - lacking a clear understanding that this is the next industrial revolution.
+    - many new challenges from a consumer perspective.
+    
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
+Business Challenges
+- Survey rsults
+  - Most difficult and most important - Legal challenges
+  - second most difficult and least important - technical challenges
+  - least difficult and second most important - business challenges.
+  
+  
+
+# Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
+## Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
+  
+  
+
+
+
+

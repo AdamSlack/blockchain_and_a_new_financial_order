@@ -286,4 +286,39 @@ transaction?
 - are blockchain technologies a legitimate or illegitimate attempt to oust conventional law?
 - DAOs exist in a regulatory greyzone, that may not offer liability, protection or accountability guarantees.
 
-## conclusion
+# Giovanni Sartor -- Semantics and Pragmatics of self enforcing laws and contracts
+## Contracts, logic based smart contracts and blockchain systems
+- A project to find a new way to write smart contracts
+    - an alternative to Ethereums smart contract system
+    
+- Aim to reduce the differnece between a smart contract language (like solidity) and human language
+    - increased accessability
+- imperative languages normally used to create smart contracts
+- the aim is to move to a more declarative style
+
+
+## what is a smart contract?
+- a program that is used to express an agreement between users
+- a program that enacts some kind of transaction or action.
+
+- These contracts can automatically enforce the agreements made.
+
+
+## what are the problems with these contracts and all contracts?
+- can be very difficult to understand unless familiar with the technology
+- often 'seasoned' with additional formalities.
+- This is a problem when trying to expand the reaches of the technology to the general public
+    - trusting of smart contracts will be difficult if there is no understanding.
+    
+## Defeasable Logic
+- a logic represnetation of smart contracts
+
+## advantages of a declarative language
+- accessability for lawyers and non-technical individuals
+- means that legal authoroties that would normally draft contracts can ensure no illicit activities are being performed.
+- the issue of cancelling smart contracts when legally required (like other contracts) still exists.
+
+## Conclusion
+- Smart contracts are good
+- need to ensure they are legally compliant.
+- adopt a declaritive language for clarity between stakeholders.

@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Panel 1: THe Law and Technology of blockchain -- An Overview
-+ Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-+ Tomaso Aste (UCL) -- What is truth? Blokchain technology and history by majority consensus
-+ Ioannis Lianos (UCL) -- Law, Fintech and the performative turn in regulation
-+ Karen Yeung (Kings College London) -- Governence by Blockchain: THe upcoming battle for supremacy between the code of law vs the code as law.
-+ Giovanni Sartor (European University Institute) -- Semantics and Pragmatics of self-enforcing laws and contracts
++ Paolo Tasca (UCL) -- *Technical and Legal business challenges of Blockchain Enabled Systems*
++ Tomaso Aste (UCL) -- *What is truth? Blokchain technology and history by majority consensus*
++ Ioannis Lianos (UCL) -- *Law, Fintech and the performative turn in regulation*
++ Karen Yeung (Kings College London) -- *Governence by Blockchain: THe upcoming battle for supremacy between the code of law vs the code as law.*
++ Giovanni Sartor (European University Institute) -- *Semantics and Pragmatics of self-enforcing laws and contracts*
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
+## Paolo Tasca (UCL) -- *Technical and Legal business challenges of Blockchain Enabled Systems*
 + General Challenges
 + legal and regulatory challenges
 + Technical Challenges
@@ -32,15 +32,14 @@ knitr::opts_chunk$set(echo = TRUE)
         - analysts
         - users
   
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-+ Multidimensional Challenges
-    - Lack of educated individuals
-        - Niche area, means very limited software developers
-        - mid 2016 appox. 5000 developers, compare to Java at approx 18.5 million
-        - Lack of educated individuals at an executive level.
+## Multidimensional Challenges
+- Lack of educated individuals
+    - Niche area, means very limited software developers
+    - mid 2016 appox. 5000 developers, compare to Java at approx 18.5 million
+    - Lack of educated individuals at an executive level.
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-Multidimensional Challenges
+
+## Multidimensional Challenges
 - Lack of Standards
     - standards arrive as defacto virtue of market adopetion
     - or via organisations puting standards into place
@@ -53,14 +52,12 @@ Multidimensional Challenges
         - terminology, taxonomy, ontology and reference architecture.
             
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-Multidimensional Challenges            
+## Multidimensional Challenges            
 - Blockchain as a foundational technology means it will take a long time for wide spread adoption
 - it will rely on a 'kiler app' and such like technology to really push the technology
     
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-Legal and REgulatory Challenges
+## Legal and Regulatory Challenges
 - Uncertain regulatory status
     - paradigm shifts
     - Regulation yes -- better later than never
@@ -75,16 +72,14 @@ Legal and REgulatory Challenges
     - many new challenges from a consumer perspective.
     
 
-## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
-Business Challenges
+## Business Challenges
 - Survey rsults
   - Most difficult and most important - Legal challenges
   - second most difficult and least important - technical challenges
   - least difficult and second most important - business challenges.
   
-  
-
 # Tomaso Aste (UCL): What is truth? Blockchain Technology and history by majority consensus
+
 ## Tomaso Aste: What is truth? Blockchain Technology and history by majority consensus
 Blockchain -- The Trust Machine
 - True to some extent
@@ -155,12 +150,12 @@ All Truth within the system is by consensus
     
 - fintech is the amalgomation of finance and technology.
 
-# Regulators -- promoting competition and innovation
+## Regulators -- promoting competition and innovation
 
 - financial conduct authority - promote effective competition in the interest of consumers
 - payment systems regulator - specific interests relating to the payment sector. promote insterests of users and services provided by payment systems.
 
-# Regulatory Initiatives
+## Regulatory Initiatives
 - FCA -- project Innovate
 - Regulatory Sandbox -- A sandbox from which businesses have a 'safe space' to experiement with new technology.
     - this can be used to introduce unauthorised businesses to the market
@@ -168,7 +163,7 @@ All Truth within the system is by consensus
 - Regulation becomes a collaboration industry
     - bespoke regulatory rules
   
-# Payment system regulators
+## Payment system regulators
 - heavily interested in blockchain technology
 - Bank of England -- regulatory investigations
     - Research Hub
@@ -176,7 +171,7 @@ All Truth within the system is by consensus
 - Prudential Regulatoryt Authority
 
 
-# Rules vs prinicals base
+## Rules vs prinicals base
 - Principals based regulation promotes collaboration
     - authorities state what they want to achieve
     - leades to Algorithmic Regulation
@@ -184,19 +179,19 @@ All Truth within the system is by consensus
     - Agile regulation
     
     
-# Platforms vs Blockchain
+## Platforms vs Blockchain
 - Blockchain aren't platforms
 - OpenBazaar, Amazon, Google
 - Competition between existing platforms to produce their own system.
 
-# OpenBazaar and markets
+## OpenBazaar and markets
 Will it lead to a wide open competative market?
 
 - still an issue with centralised groups of hashing teams
 - these groups will be competative
     - still not down to the individuals
 
-# Lack of quantitiative measurements for innovation
+## Lack of quantitiative measurements for innovation
 - As regulatory authories lack methods of quantifying the promotion of innovaiton
     - regarding its success at least
     
@@ -204,7 +199,7 @@ Will it lead to a wide open competative market?
     - this measn more interaction and involvment between regulators and businesses.
 
 
-# Governence by blockchain: the coming battle for supremacy between code of law vs code as law.
+#Karen Yeung -  *Governence by blockchain: the coming battle for supremacy between code of law vs code as law.*
 ## Introduction
 
 - explore the intersection and interactions of conventional law and internal rules of blockchain systems
@@ -322,3 +317,125 @@ transaction?
 - Smart contracts are good
 - need to ensure they are legally compliant.
 - adopt a declaritive language for clarity between stakeholders.
+
+# Panel 2 -- *Blockchain and the future of money*
+# Stefan Eich -- *The politics of Cryptocurrencies in historical perspectives*
+
+##Crypto Currencies
+- Driven by technology
+- lacking governence
+- cut off from the past (and)
+
+## is that the right framing?
+
+## Argument
+- the forget political disputes over money in the 70s
+    - actively written out of memory by great moderation
+    - but resurfaced again with the financial crisis
+- in this ligt cryptocurrences asa political attemt to depoliticise money.
+
+## Hayek, the denationalisation of money (1976)
+
+- ending of government monopoly of the issue of money
+- decentralisation
+
+## Gunnar Myrdal Oct 1974
+- demands for global democratic reforms
+- proposed 'welfare state' becomes a 'welfare world'
+    - via reformation of monetary systems on a global scale
+    
+    
+## Politics of Disinflation
+- after inflation hikes in the 70's/80's
+- new polics of disinflation and monetary depoliticization emerged
+
+## The great Moderation 
+- revealed that notion of money existing aside from politics was an illusion
+
+## Financial Crisis
+- The emergence of bitcoin after the financial crisis was not a coincidence
+- the technology had existed for years
+- 6 weeks after the collapse of 'lehsman brothers' (corect spelling) bitcoin emerged
+
+## bitcoin as an experiemnt of artificial scarcity
+- the finite amount of bitcoin
+- as more bitcoins became owned, they became more valuble
+
+## re-politicization
+- just as monetary systems have given rise to calls for decentralised monetary systems
+- it has also created a call for more politicised systems.
+
+## to summarise
+- cryptocurrency is intself a political act
+    - a olitical act of depoliticisation
+    
+- technology itself is politically neutral
+    - blockchains are politically agnostic, even if its applications aren't 
+  
+- the creators of a cryptocurrency is infact an act of lawmaking
+    - centralised around their personal political motivations and ideologies.
+
+# Rosa Maria Lastra -- *Pubic Money vs Private Money*
+
+## Fiat Money
+- Funcitons of money
+    - medium of exchange, store of value, unit of account.
+- governence
+    - central bank issue, legal tender, legal counterparty
+- risks
+    - theft, fraud, counter-party, inflation
+- consumer appeal
+    - good store of value, realtime, reversible
+- foreign exchange
+    - costly time
+- centralised clearing
+    - paypal, apple pay, cheques
+    
+## Bitcoin (didnt want to talk about ethereum as well)
+- functions of money
+    - medium of exchange, volitile store of value, negligible unit of account
+-governance
+    - bitcoin protocol, issuing mining rewards
+- risks
+    - medium, interface, malfunction, password (key) loss
+
+
+## Monetary Sovereignty
+- Traditionally
+    - the power to issue and distrubute money
+    - monopoly power enjoyed by the state
+- new technology
+    - digital currencies, digital payment methods
+    - signify the changing state of monetary sovereignty
+  
+
+## theories of money
+- the state theory of money is different to the society theory of money are contrasting
+    - a state's theory of money is that they decide what constitutes of money
+    - the sociatal theory is that money is determined by what has value.
+    
+## Public money
+- public money is fiat money backed by the state
+
+- central banks issue all notes in circulation
+- fiat money, inconvertable into gold or other precious materials.
+    - the government declares the paper money to be legal tender for the settlement of debts
+    
+## private money
+- societal money backed by societal accpetance.
+    - enhanced by reputation/credibility.
+    - currency does not need to be legal tender to exist.
+    
+## Boom and Busts
+- displacement brings opportunity for profit
+    - herd behavioutr from investor euphoria
+- as investors decide to cash out, others follow this movement, causing busts as extensive as the booms.
+
+## private money and central banking.
+- Crypto currencies challenge the status quo of bank monopoly
+- curencies npt backed by any central authority have a value completely dependant on peoples 
+confidence to use it.
+
+    
+
+

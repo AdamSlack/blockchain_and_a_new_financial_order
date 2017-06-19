@@ -878,8 +878,8 @@ Blockchain and DLT
 ## coo-ordination of social and economic activity in a decentralised way.
 
 ## tamper resistant registreis includes voting
-  -  Privacy is not a concern here
-  - ??
+  - Privacy is not a concern here
+  - ^^^ this required clarification 
   
 ## Tamper Resistet registries for stock certificates
 
@@ -895,16 +895,145 @@ Blockchain and DLT
 
 
 
+
+
+
 # Panel 4 -- *Blockchain and the future of Finteck Regulation*
 
 # Michael Jacobides -- *Transformation of corporate scope in US Banks: patterns and performance implications*
 
+## This was a general finance presentation
+- covered the composition of banking corporations.
+
+## How predictable are Financial crises? (Not a slide, my own questions)
+- Adapted Z score used to predict a bank going bust
+- some speculation regarding what would happen if another financial crisis occurs
+    - or if a major bank fails
+- would this push a people to move their finances into cryptocurrencies like Ether, would this have a detrimental effect overall?
+
+
+
+
+
 # Pietro Ortolani -- *Is Bitcoin Disruptng the Law? A tale of Jurisdiction, Currency and Sovereignty*
+
+## Nationalism/Transnationalism tension
+- nationalists oppose the erosion of tradition
+- transnationalists will support the progression of cryptocurrency ideologies
+
+## Digical currency illusions
+- Technology and Ideology of the cryptocurrency are distinct
+- once released, the developers of a technology will have no controll of the associated ideology
+
+## Assessing the impact of the technology
+- Impact on the centrality of state courts in:
+    - the administration of justice
+    
+- Impact on the monopoly of the state over:
+    - something something something... missed it.
+    
+    
+## The Feedback Loop
+- State: Law -> courts -> procedure -> currency -> Law
+- how do you seize assets on a blockchain?
+
+## Bitcoin in US cases
+- Bitcoin transactions rose by 100,000s over the years
+- amount of court cases/ criminal cases mentioning bitcoin is very small
+- some criminal, most civil, still minimal (17 in 2016)
+
+## assessment
+- private adjudication currently prevail over court litigation
+- plaintiff inactivity could play a role
+- incentives for high value cases may be different.
+
+## enforcement of decisions
+- the state perspective: Balancing
+- The smart contract perspective: Automation
+
+## A new normative framework
+- standard setting at the transnational level
+- balancing as an overarching goal
+- mor cooperation between technology and dispute resolution experts
+
+
+
 
 # Angela Walch -- *The Fiduciaries of Public Blockchains*
 
+## Summary - anyone working on an open source project is a 'fiduciary'
+
+
 # Georgios Dimitropoulos -- *Global Currencies and Domestic Regulation: embedding through enabling.*
+
+## Regulatory approaches to Cryptocurrencies
+Command And Control
+- China: Central bank of china and other agencies gave a 'notice on precautions on the payment of cryptocurrencies'
+    - banks in china cannot handle them
+
+- United Arab Emirates: all virtual currencies and any transactions are prohuibuted
+    - announce Cryptocurrencies are not applicable to this legislation
+
+
+## Regulatory approaches to Cryptocurrencies
+Intermediate approaches
+- Warnings
+    - france
+    - EBA
+    - US
+    
+- Taxation
+    - IRS: For federal tax purposes, virtual currency is treated as property.
+    
+## Legal Nature of Cryptocurrencies
+- Different jurisdictions take idfferent views
+Some view it as:
+a) money
+b) commodity
+c) technology
+or any combination of.
+
+## The legal nature of cryptocurrencies.
+Global Currency as Currency
+Money
+- US: Guidance specifying that decentralised currencies should comply with money laundering regulations
+- Germany: Not a form of legal tender, but are legally binding financial instruments that are similar to foreign currencies in that they are a form of units of account.
+- France: They may be percieved as money, and cryptocurrency intermediaries may quialify as financial intermediaries.
+- UK: HMRC -- Cryptocurrency related activities are not subject to VAT as they are considered a form of Money.
+- EU: implicit and explicit recognition of cryptocurrency as a form of money
+
+
+## The legal nature of cryptocurrencies.
+Commodity:
+- China: bitcoins can be exchanged between citizins without the involvement of banks
+- US: its a commodity....
+
+## THe Duel nature of Cryptocurrencies
+- Regulation as currency
+    - restrictive approaches when percieved as money or commodity
+    
+- regulation as technology
+    - UK AUS etc, promote and don't restrict it as a technology
+    - FinTech + FCA - Innovation hub, regulatory Sandbox
+    
+    - AUSL: ASIC FinTech Class exemption.
+    
+## Embedding through enabling
+- Peril 1: More Finance:
+    - constraining conventional finacnce, whilst at the same time enabling finTech Products
+    
+- Peril2: Clash of agencies
+
+
+## Mitigating the issues:
+- Combine the restricting and fascilitating aproaches.
+
+- Regulate new intermediaries.
+    - US: 'BitLiscence' for virutal currency business activity.
+    
+
 
 # Jonathan Greenacre -- *Fintech in Africa: The regulation of mobile money.*
 
+##
 

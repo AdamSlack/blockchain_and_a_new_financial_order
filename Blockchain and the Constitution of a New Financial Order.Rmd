@@ -1,0 +1,58 @@
+---
+title: "Blockchain and the Constitution of a New Financial Order: Legal and Political Challenges"
+author: "Adam Slack"
+date: "19 June 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Panel 1: THe Law and Technology of blockchain -- An Overview
++ Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
++ Tomaso Aste (UCL) -- What is truth? Blokchain technology and history by majority consensus
++ Ioannis Lianos (UCL) -- Law, Fintech and the performative turn in regulation
++ Karen Yeung (Kings College London) -- Governence by Blockchain: THe upcoming battle for supremacy between the code of law vs the code as law.
++ Giovanni Sartor (European University Institute) -- Semantics and Pragmatics of self-enforcing laws and contracts
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
++ General Challenges
++ legal and regulatory challenges
++ Technical Challenges
++ business challenges
++ there is overlap between each of these areas
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
++ Multidimensional Challenges
+    - Underdeveloped ecosystem
+        - Adoption of a blockchain is necessary but not enough
+        - need a whole ecosystem of stakeholders focused around the adoption of such a technology
+        - Complete Tech stacks.
+        - analysts
+        - users
+  
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
++ Multidimensional Challenges
+    - Lack of educated individuals
+        - Niche area, means very limited software developers
+        - mid 2016 appox. 5000 developers, compare to Java at approx 18.5 million
+        - Lack of educated individuals at an executive level.
+
+## Paolo Tasca (UCL) -- Technical and Legal business challenges of Blockchain Enabled Systems
++ Multidimensional Challenges
+    - Lack of Standards
+        - standards arrive as defacto virtue of market adopetion
+        - or via organisations puting standards into place
+        - standards will introduce many aspects
+            - Increased adoption
+            - interoperability
+            - lower costs and less overall risks
+        - standards also help with other topics
+            - use cases
+            - terminology, taxonomy, ontology and reference architecture.
+            
+            
+            
+            
+        
